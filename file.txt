@@ -1,2 +1,6 @@
 Hello
+<<<<<<< HEAD
 Hello_3
+=======
+Hello_2
+>>>>>>> f0235f3 (Update file in newfeature branch)
